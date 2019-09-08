@@ -1,6 +1,6 @@
 <!DOCTYPE html>
  <html lang="en">
-<!--  <head> </head>
+  <head> </head>
     <title>Resume of Raihan Ruhin</title>
     <!-- Meta -->
     <meta charset="utf-8">
@@ -23,7 +23,7 @@
     
 </head> 
 
-<!-- <body> </body>
+<body> </body>
     <!-- ******HEADER****** --> 
     <header class="header">
         <div class="container">                       
